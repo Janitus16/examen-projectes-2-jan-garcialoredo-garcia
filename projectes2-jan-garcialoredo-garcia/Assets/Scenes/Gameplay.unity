@@ -2297,6 +2297,7 @@ MonoBehaviour:
   - {fileID: 5803113010749110613, guid: 59291758bf1338d4d86f65b55081bb63, type: 3}
   - {fileID: 5803113010749110613, guid: 59291758bf1338d4d86f65b55081bb63, type: 3}
   - {fileID: 5803113010749110613, guid: 59291758bf1338d4d86f65b55081bb63, type: 3}
+  - {fileID: 5803113010749110613, guid: 59291758bf1338d4d86f65b55081bb63, type: 3}
   shotsText: {fileID: 1587702951}
   youWinUI: {fileID: 664550794}
   musicSnapshots:
